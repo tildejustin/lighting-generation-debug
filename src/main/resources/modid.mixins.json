@@ -1,8 +1,13 @@
 {
   "required": true,
-  "package": "dev.tildejustin.example.mixin",
+  "package": "dev.tildejustin.lightdebug.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "BiomeMixin",
+    "EndPortalBlockMixin",
+    "LakeFeatureMixin",
+    "MushroomPlantBlockMixin",
+    "RandomPatchFeatureMixin"
   ],
   "client": [
   ],

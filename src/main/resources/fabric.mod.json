@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "lighting-gen-debug",
   "version": "${version}",
-  "name": "",
+  "name": "Lighting Generation Debug",
   "description": "",
   "authors": [
     "tildejustin"
   ],
   "contact": {
-    "homepage": "https://modrinth.com/mod/modid",
-    "sources": "https://github.com/tildejustin/modid",
-    "issues": "https://github.com/tildejustin/modid/issues"
+    "homepage": "https://modrinth.com/mod/lighting-generation-debug",
+    "sources": "https://github.com/tildejustin/lighting-generation-debug",
+    "issues": "https://github.com/tildejustin/lighting-generation-debug/issues"
   },
   "license": "MPL-2.0",
   "environment": "*",
